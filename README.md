@@ -1,10 +1,11 @@
 # mongodb_elasticsearch_jieba
 
 ubuntu 14.04 使用elasticsearch+jieba+ mongodb 搜索
-
+==================================================
 
 
 1.安装elasticsearch（注意elasticsearch的版本）
+--------------------------------------------
  参考链接 ：https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-elasticsearch-on-ubuntu-14-04
  http://www.vpsee.com/2014/05/install-and-play-with-elasticsearch/
  版本选为2.3.4
