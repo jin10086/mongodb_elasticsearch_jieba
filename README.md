@@ -39,11 +39,15 @@ sudo apt-get update && sudo apt-get install elasticsearch
 ---------------------------------------------------------
 1. pip install mongo-connector
 2. mongo-connector -m localhost:27017 -t localhost:9200 -d elastic2_doc_manager 同步~
-5.搜索  https://github.com/elastic/elasticsearch-py
+
+5.搜索https://github.com/elastic/elasticsearch-py
 ------------------------------------------------------
 https://elasticsearch-py.readthedocs.io/en/master/api.html#elasticsearch.Elasticsearch.search
 http://es.xiaoleilu.com/
 1. pip install elasticsearch
+2. 查询
+1. sss
+2. xxx
 
 
 
