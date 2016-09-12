@@ -46,13 +46,15 @@ https://elasticsearch-py.readthedocs.io/en/master/api.html#elasticsearch.Elastic
 http://es.xiaoleilu.com/
 1. pip install elasticsearch
 2. 查询
-'<code>'
+
 from elasticsearch import Elasticsearch
 es = Elasticsearch()
 all = es.search(index='douban',doc_type='xxx',body=body,from_=0,size=10)
-**这里是显示第一页的结果
-**第二页则是from=10,size=10
-**第三页则是from=20,size=10
+*这里是显示第一页的结果*
+**第二页则是from=10,size=10*
+**第三页则是from=20,size=10*
+http://www.one-tab.com/page/rZmjjQafRu2s3NZoy6ZwlA
+}
 
 
 
