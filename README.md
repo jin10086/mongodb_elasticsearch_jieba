@@ -56,8 +56,11 @@ all = es.search(index='douban',doc_type='xxx',body=body,from_=0,size=10)
 http://www.one-tab.com/page/rZmjjQafRu2s3NZoy6ZwlA
 }
 
-
-
+6.注意事项
+----------------------------
+1. make sure that [action.auto_create_index](https://www.elastic.co/guide/en/elasticsearch/guide/current/_creating_an_index.html) is set to true in your elasticsearch.yml 
+2. xxxxxxxxxx
+2. 
 
 
 
