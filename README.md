@@ -59,8 +59,9 @@ http://www.one-tab.com/page/rZmjjQafRu2s3NZoy6ZwlA
 6.注意事项
 ----------------------------
 1. make sure that [action.auto_create_index](https://www.elastic.co/guide/en/elasticsearch/guide/current/_creating_an_index.html) is set to true in your elasticsearch.yml 
-2. xxxxxxxxxx
-2. 
+2. Installing  [mongo-connector](https://github.com/mongodb-labs/mongo-connector/wiki/Installation) as a Linux Service
+3. 实在不行就按照[这个](https://blog.jixee.me/how-to-use-mongo-connector-with-elasticsearch/)全部重新配置一次
+
 
 
 
